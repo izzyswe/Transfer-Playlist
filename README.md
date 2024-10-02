@@ -1,14 +1,15 @@
 # Transfer-Playlist | Project Spopple
 
 ## Creating an application that will transfer any songs you will have on spotify to apple music or any platform of my choosing
+ ## The Challenges however...
+    
+   * I don't know APIs worth shiiieeet
+   * I can't really understand what the API code is even saying sometimes
+   * I am not sure how to apply this in my prefferred language of Java/kotlin
+   * this going to be a non-gui application so i have no sense of direction.
+   * so this will be fun.
 
-### The Challenges however...
-    * I don't know APIs worth shiiieeet
-    * I can't really understand what the API code is even saying sometimes
-    * I am not sure how to apply this in my prefferred language of Java/kotlin
-    * this going to be a non-gui application so i have no sense of direction.
-    * so this will be fun.
-
+## This is the objective / plan
     _____ Objective: ________________________________________________________________________________________________________________________
     |                                                                                                                                       |
     |  while I am sure there is an existing application for this very problem, I am too lazy to find and verify.                            |

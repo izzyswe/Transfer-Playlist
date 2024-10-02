@@ -1,8 +1,8 @@
 # Transfer-Playlist | Project Spopple
 
-##Creating an application that will transfer any songs you will have on spotify to apple music or any platform of my choosing
+## Creating an application that will transfer any songs you will have on spotify to apple music or any platform of my choosing
 
-###The Challenges however...
+### The Challenges however...
     * I don't know APIs worth shiiieeet
     * I can't really understand what the API code is even saying sometimes
     * I am not sure how to apply this in my prefferred language of Java/kotlin

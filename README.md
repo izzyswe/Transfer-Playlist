@@ -6,7 +6,7 @@
    * I don't know APIs worth shiiieeet
    * I can't really understand what the API code is even saying sometimes
    * I am not sure how to apply this in my prefferred language of Java/kotlin
-   * this going to be a non-gui application so i have no sense of direction.
+   * this is likely going to be a non-gui application so i have no sense of direction.
    * so this will be fun.
 
 #### This is the objective / plan

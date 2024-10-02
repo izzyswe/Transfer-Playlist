@@ -1,13 +1,13 @@
 # Transfer-Playlist | Project Spopple
 
-## Creating an application that will transfer any songs you will have on spotify to apple music or any platform of my choosing
+## Creating an application that will transfer any songs you will have on spotify to apple music or any platform of your choosing
  ### The Challenges however...
     
    * I don't know APIs worth shiiieeet
    * I can't really understand what the API code is even saying sometimes
    * I am not sure how to apply this in my prefferred language of Java/kotlin
    * this is likely going to be a non-gui application so i have no sense of direction.
-   * so this will be fun.
+   * likely be shit code so this will be fun.
 
 #### This is the objective / plan
     _____ Objective: ________________________________________________________________________________________________________________________
@@ -19,7 +19,7 @@
     |  from one application, I understand companies want to retain their customer,                                                          |
     |  but I am not a child and should not be babied and kept in one ecosystem.                                                             |
     |                                                                                                                                       |
-    |     I need an easy solution to transfer or make a copy of my playlist in my current platform to another platform if i so choose to    |
+    |     I need an easy solution to transfer or make a copy of my playlist in my current platform to another platform if choosen to do so  |
     |     I want to build an application that will allow me to do the following:                                                            |
     |           1. paste my api token to access my content                                                                                  |
     |           2. ability to display the available playlist in alphabetical list (not show any deleted playlist)                           |
